@@ -1,0 +1,3 @@
+/Users/bariuta/CLionProjects/CtestPro/cmake-build-debug/CMakeFiles/CtestPro.dir
+/Users/bariuta/CLionProjects/CtestPro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bariuta/CLionProjects/CtestPro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
